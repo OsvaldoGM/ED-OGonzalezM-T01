@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  FetchClass.cpp
+c:\users\honorio zaiback\documents\visual studio 2017\projects\t01\t01\fetchclass.cpp(45): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BinariClass.cpp
+  Generando código...
+  T01.vcxproj -> C:\Users\HONORIO ZAIBACK\documents\visual studio 2017\Projects\T01\Debug\T01.exe
+  T01.vcxproj -> C:\Users\HONORIO ZAIBACK\documents\visual studio 2017\Projects\T01\Debug\T01.pdb (Partial PDB)
